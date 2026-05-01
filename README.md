@@ -1,2 +1,15 @@
 # BL-cybersecurity-portfolio
-A repo for a portfolio.
+
+## Background
+My name is Brian LaPointe, and I've been in Cyber for nearly 25 years now. I made the move from general IT roles over to Cyber because, well, that's what the company needed at the time. As it turns out, that was a good career move.
+
+## CTFs
+
+Until about 5 years ago, I hadn't heard the term CTF in the context of Cyber. My first exposure was a CTF built into the last day of a SANS course I attended. It was a little intimidating because there was one person in the class who clearly had extensive experience with CTFs. There were only a handful of other people in the course, and that one person certainly carried a lot of the team. Following the CTF baked into the course, there was also a "NetWars" CTF at that same SANS event, and I went into it not knowing what to expect. I was pleasantly surprised that despite not having any idea what I was doing, I had a lot of real world experience and some things actually translated well. Earning a challenge coin from the Netwars event, despite the tiny amount of CTF experience I brought with me, was encouraging.
+
+I recently competed in the National Cyber League Spring 2026 CTF games, starting with a practice game, followed by the individual and team games. With those all completed now, I can honestly say that the experience is a positive one. The event takes a lot out of you, with a compressed schedule requiring significant time investment to complete. At least, that was my experience. Some categories proved more difficult than others, and I imagine that is to be expected. The upside is you get exposure to problems and challenges outside of your comfort zone, and that helps you learn and broaden your Cyber experience in general.
+
+While policies prevent me from disclosing the exact challenge, one of the harder questions in the NCL Team Game proved to be an excellent opportunity to learn. It had to do with log analysis and the amount of data provided, combined with the scenario description, seemed excessive. I went into it attempting to analyze the information, disregarding parts of it that I thought had no bearing. I went deep into a rabbit hole and was not getting any results. It wasn't until one of my teammates got a foothold and explained their approach that I realized I was going about it entirely wrong. This is one of the overlooked aspects of the CTF experience that can actually represent real world challenges. It's easy to get into the wrong frame of mind, making inferences or assumptions that lead you down the wrong path. Having other people available to provide their perspective proved invaluable. Taking a break and coming back to look at the problem with a fresh mind was also helpful. In the end, I was able to build off the team's work and complete the last question for that challenge. By using the data I disregarded at the start!
+
+In the end, you will get the same out of a CTF experience as you'll get from real world challenges. Put the work into it and you may be surprised at what you can accomplished.
+
