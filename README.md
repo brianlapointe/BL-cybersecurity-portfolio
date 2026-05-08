@@ -13,3 +13,9 @@ While policies prevent me from disclosing the exact challenge, one of the harder
 
 In the end, you will get the same out of a CTF experience as you'll get from real world challenges. Put the work into it and you may be surprised at what you can accomplish.
 
+## NCL Results
+
+Here are my NCL Scouting Reports for the Spring 2026 Individual and Team games. I feel pretty good about scoring in the 93rd percentile for the Individual game and 97th percentile in the Team game, considering I didn't have much CTF experience.
+
+[Individual](https://github.com/brianlapointe/BL-cybersecurity-portfolio/blob/main/2026_Spring_Individual_Brian%20LaPointe%20-%20Cyber%20Skyline%20Report.pdf) 
+[Team](https://github.com/brianlapointe/BL-cybersecurity-portfolio/blob/main/2026_Spring_Team_Brian%20LaPointe%20-%20Cyber%20Skyline%20Report.pdf)
